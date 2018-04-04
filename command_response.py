@@ -1,6 +1,6 @@
 # Put your commands here
 # Keep the values lowercase
-COMMAND1 = "what??"
+COMMAND1 = "what?"
 
 # Your handling code goes in this function
 def handle_command(command):
